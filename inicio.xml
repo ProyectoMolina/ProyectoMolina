@@ -42,18 +42,20 @@
 <externallink>https://dl.dropboxusercontent.com/s/yghycet2f366odv/CategoriasPeliculas.xml?dl=0</externallink>
 </item>
 <item>
-<title>[COLOR skyblue]  [B]Series tv[/B] [/COLOR]</title>
+<title>[COLOR blue]  [B]Series tv[/B] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/tv.xml</externallink>
 </item>
 
 
-
 <item>
-<title>[COLOR deepskyblue]En construccion[/COLOR]</title>
+<title>[COLOR deepskyblue]Probando[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/esp.xml</externallink>
+<externallink>https://dl.dropboxusercontent.com/s/bqg2bbjchyxk359/Inicio.xml?dl=0</externallink>
 </item>
+
+<!--
+
 <item>
 <title>[COLOR deepskyblue]  Mexico[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
