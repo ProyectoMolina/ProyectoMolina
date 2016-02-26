@@ -1,10 +1,5 @@
-
-<item>
-<title>[COLOR blue]  [B]PELICULAS 2015[/B] [/COLOR]</title>
-<link>http://ignorar</link>
-<thumbnail>http://ignorar</thumbnail>
-<fanart>http://ignorar</fanart>
-</item>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<layoutype>thumbnail</layoutype>
 
 <item>
 <title>[COLOR oldgold]  [B]Ant-Man[/B] [/COLOR]</title>
@@ -110,6 +105,84 @@
 <thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/LUGARES-OSCUROS_zpsgdupjfrx.jpg</thumbnail>
 <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR oldgold]  [B]Los Minions[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/9_cNr_2SalPRNHmmzLdw8xVVbcKutION1s1VAJanEOA=m37</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/Los-Minions_zpsnk6mdsry.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR oldgold]  [B]Intensamente[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/02BKZzeWuDqdLLyTPx5nhCz1jYTRQGIJ03en0saaJZQ=m37</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/Intensamente_zpsseorsr5l.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR oldgold]  [B]La Horca[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/3TmcOI7_uFJgdpUtVu6wH_5hp8xU1osDiZRyI-zVcbs=m37</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/La_Horcao_zpsxqlzauti.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR oldgold]  [B]El rey Escorpión 4: La búsqueda del poder[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/ZZc_Ipglvp2NNBi51MmQSbVBCJTujCP1E2S2xSkDFO0=m37</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/El_Rey_Escorpion_4_La_busqueda_del_poder_zps0bfh5zlh.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR oldgold]  [B]Pixels[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/vMM2B0DcwJ2CcCIThv3m2tqS7IO8t-4pq6kvGYmoF-0=m37</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/pixels_zpszm83zygs.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR oldgold]  [B]Max[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/61YJ3LAY3Zt6OWvU7QQWdFBRwvjJ2NFDl44Q1an6j_0=m22</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/Max_zpsn9khwqzz.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR oldgold]  [B]Poltergeist[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/tnzCgUfLx1EDYyUIzn1nx2Fj288_ws9w9JGQ5iNQpnI=m22</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/Poltergeist_zpslogcry4b.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR oldgold]  [B]La Noche Del Demonio 3[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/7eupnz87bSSaHXb_Jj2BcZL3ICuTdG6WYPL-d6UrHg=m37</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/la-noche-del-demonio-3_zpsl3zjjkgl.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR oldgold]  [B]Terminator Genesis[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/Y1oGCzwsMeTDoXoso1X-jJGAp_T77qRBBFjoRpUR5w=m37</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/terminator-genesis_zpsamhakhgn.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR oldgold]  [B]San Andreas[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/pqTdKWzE182PQvE41ARqAk2zdaICrpXAc9lIIpTkOw=m37</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/San_Andreas_zpsnkdx3wbp.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR oldgold]  [B]Los Vengadores:La Era De Ultron[/B] [/COLOR]</title>
+<link>https://lh3.googleusercontent.com/Vf4jaYQZNOpN2i434cZ-UC4BDcqLWCNu0LN26d_plw=m37</link>
+<thumbnail>http://i723.photobucket.com/albums/ww236/ericmolina2/Caratulas/Caratulas%20Peliculas/Los_Vengadores_La_Era_De_Ultron_zps00ieghvv.jpg</thumbnail>
+<fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+</item>
+
 <!--
 <item>
 <title>[COLOR oldgold]  [B]South Park 02x03 El Gallinofilo[/B] [/COLOR]</title>
